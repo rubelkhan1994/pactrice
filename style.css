@@ -1,0 +1,81 @@
+*{margin:0px; padding:0px;}
+
+#top-navbar{
+	color:white;
+   padding:5px;
+	background:#001d4c !important;			
+	font-size:20px;
+	position:relative;
+	}
+	#container{
+		 padding:5px;
+		margin:auto;
+		width:1140px;
+		display:block;
+		overflow:hidden;
+		
+		
+	}
+	.container-2{
+		width:1140px;
+		float:left;
+		
+		
+	
+	}
+	.container-2 i{
+		margin-right:8px;}
+	.contacemail{
+		float:left;
+		
+		width:250px;
+	}
+	.location{
+		float:left;
+		
+		width:300px;
+	}
+	.email{
+		float:left;
+		
+		width:250px;
+	}
+	.phone{
+		float:left;
+		
+	}
+	.login-button{
+		margin-right:150px;
+		float:right;
+	}
+	.login-button i{
+		color:#21a7d0;
+	}
+	
+	.header-button{
+		margin-left:1000px;
+		padding:10px;
+		background:#21a7d0;
+		position:absolute;
+		top:0px;
+	}
+	.slider img{
+		width:1400px;
+		height:600px;
+	}
+	.slick-next.slick-arrow {
+  
+  margin-right: 200px;
+
+  z-index: 99999;
+}
+.slick-prev.slick-arrow {
+  margin-left: 200px;
+ 
+  z-index: 99999;
+  
+}
+
+	
+	
+	
